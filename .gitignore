@@ -1,0 +1,6 @@
+data/
+src/simple_cartesian/
+src/simple_polar/
+*.pyc
+*.gz
+*.swp
